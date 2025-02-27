@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cover-2025/static/css/main.4b9326f8.css",
+    "main.js": "/cover-2025/static/js/main.c9911f12.js",
+    "static/js/453.77f005fa.chunk.js": "/cover-2025/static/js/453.77f005fa.chunk.js",
+    "static/media/ainsworth.webp": "/cover-2025/static/media/ainsworth.4c5b6e0d5ce03230b50a.webp",
+    "static/media/logo.png": "/cover-2025/static/media/logo.e6246279649f66403b38.png",
+    "index.html": "/cover-2025/index.html",
+    "main.4b9326f8.css.map": "/cover-2025/static/css/main.4b9326f8.css.map",
+    "main.c9911f12.js.map": "/cover-2025/static/js/main.c9911f12.js.map",
+    "453.77f005fa.chunk.js.map": "/cover-2025/static/js/453.77f005fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9326f8.css",
+    "static/js/main.c9911f12.js"
+  ]
+}
